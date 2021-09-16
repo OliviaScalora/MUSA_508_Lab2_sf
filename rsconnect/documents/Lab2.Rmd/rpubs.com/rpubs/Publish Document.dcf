@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/809914/08fe981f1dec41ad9e01c2a4f17d3120
+bundleId: https://api.rpubs.com/api/v1/document/809914/08fe981f1dec41ad9e01c2a4f17d3120
+url: http://rpubs.com/OScalora/809914
+when: 1631756919.75972
+lastSyncTime: 1631756919.75972

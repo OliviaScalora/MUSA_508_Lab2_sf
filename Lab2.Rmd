@@ -1,7 +1,7 @@
 ---
 title: "Lab2_assignment"
-author: "Matt Harris"
-date: "9/8/2021"
+author: "Olivia Scalora"
+date: "9/15/2021"
 output: github_document
 editor_options: 
   markdown: 
